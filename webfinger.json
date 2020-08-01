@@ -1,0 +1,36 @@
+{
+    "subject": "acct:merely@pawoo.net",
+    "aliases": [
+        "https://pawoo.net/@merely",
+        "https://pawoo.net/users/merely"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://pawoo.net/@merely"
+        },
+        {
+            "rel": "http://schemas.google.com/g/2010#updates-from",
+            "type": "application/atom+xml",
+            "href": "https://pawoo.net/users/merely.atom"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://pawoo.net/users/merely"
+        },
+        {
+            "rel": "salmon",
+            "href": "https://pawoo.net/api/salmon/1044868"
+        },
+        {
+            "rel": "magic-public-key",
+            "href": "data:application/magic-public-key,RSA.yaF9YRb-Nk0Iv7VSBeTov7p5ccy33fIMLwQ9OofolrfCN7uEvNm3qI8m3ihzFNEb3l7Eu8nBNah37TVQST8gxRU74_5Unk6dQgKo_TcV5gpPpxOuW1FLtYWBwIBABro85W8NxDrurorzGUS8v7T9OnQ9qhzj3gESJN8lrVk2kPq__PsFYkqJVkWXYj7XN70ZUmUj4uhyVrWdtSMVgZhWpuwKrnfYYZsW28wgQHfCsLg1tjfgHGSTbctabJjZO23vgNUCgXFTppLXm09-F-jDJFgCHadVJx9v-FYmREIrsRtJeo2MYTb7DT3_JMvQpFTae9WKEhg9b3GrwjHgaC3HAQ==.AQAB"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://pawoo.net/authorize_follow?acct={uri}"
+        }
+    ]
+}
